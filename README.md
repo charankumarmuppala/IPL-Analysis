@@ -104,10 +104,6 @@ Player performance heatmaps
 
 Web-based analytics UI
 
-📄 License
-
-This project is licensed under the MIT License.
-
 ⭐ Contributing
 
 Pull requests welcome — especially for:
